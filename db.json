@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "Do homework angular",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "name": "Visit friends",
+      "complete": false
+    }
+  ]
+}
